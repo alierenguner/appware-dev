@@ -1,0 +1,2 @@
+/* eslint-disable */
+module.exports = require("@appware-dev/ui-shared/postcss.config");

@@ -1,7 +1,1 @@
-/* eslint-disable no-undef */
-module.exports = {
-  plugins: {
-    tailwindcss: {},
-    autoprefixer: {},
-  },
-}
+module.exports = require("@appware-dev/ui-shared/postcss.config");
