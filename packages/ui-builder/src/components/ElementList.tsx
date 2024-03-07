@@ -27,7 +27,7 @@ const ListTitle: React.FunctionComponent<ListTitleProps> = (props) => {
 
 const ListElement: React.FunctionComponent<ListElementProps> = (props) => {
     return (
-        <div className="flex flex-col items-center justify-center w-auto h-24 border border-solid rounded-md border-slate-800 cursor-pointer">
+        <div className="flex flex-col items-center justify-center w-auto h-24 border border-solid border-neutral-900 rounded-md cursor-pointer">
             {props.icon}
             <span className="text-center text-xs mt-2">{props.title}</span>
         </div>
