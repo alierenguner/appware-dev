@@ -1,4 +1,5 @@
 import ElementView from "../views/ElementView";
+import ExplorerView from "../views/ExplorerView";
 
 export default function DeveloperContainer() {
     return (
@@ -13,6 +14,7 @@ export default function DeveloperContainer() {
             </div>
             {/* Right Section */}
             <div className="flex flex-col w-[280px] h-full border-l border-solid border-neutral-900">
+                <ExplorerView />
 
             </div>
         </div>
