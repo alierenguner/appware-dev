@@ -1,4 +1,4 @@
-import LOGO from "./appware-logo.svg";
+import LOGO from "./appwaredev-logo.svg";
 
 const Images = {
     LOGO
