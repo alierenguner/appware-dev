@@ -1,5 +1,5 @@
 {
-  "name": "@repo/prettier-config",
+  "name": "@appware-dev/prettier-config",
   "version": "0.0.0",
   "private": true,
   "files": [

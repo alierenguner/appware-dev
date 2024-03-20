@@ -13,9 +13,9 @@
     "configs/*"
   ],
   "devDependencies": {
-    "@repo/eslint-config": "*",
-    "@repo/prettier-config": "*",
-    "@repo/typescript-config": "*",
+    "@appware-dev/eslint-config": "*",
+    "@appware-dev/prettier-config": "*",
+    "@appware-dev/typescript-config": "*",
     "prettier": "^3.2.5",
     "turbo": "^1.12.5"
   },
